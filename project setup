@@ -1,0 +1,8 @@
+# Create a new Next.js project with TypeScript and Tailwind
+npx create-next-app@latest mythic-machines --typescript --tailwind --use-npm
+
+# Navigate to project
+cd mythic-machines
+
+# Install required dependencies
+npm install lucide-react @radix-ui/react-alert-dialog @radix-ui/react-slot class-variance-authority clsx tailwind-merge
