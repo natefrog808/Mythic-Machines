@@ -1,0 +1,5 @@
+# Initialize shadcn/ui
+npx shadcn-ui@latest init
+
+# Install required components
+npx shadcn-ui@latest add card alert
