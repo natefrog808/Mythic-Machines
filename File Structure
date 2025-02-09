@@ -1,0 +1,16 @@
+mythic-machines/
+├── src/
+│   ├── app/
+│   │   ├── page.tsx
+│   │   ├── layout.tsx
+│   │   └── globals.css
+│   ├── components/
+│   │   ├── ui/
+│   │   │   ├── card.tsx
+│   │   │   └── alert.tsx
+│   │   └── MythicMachinesInterface.tsx
+│   └── types/
+│       └── index.ts
+├── tailwind.config.js
+├── next.config.js
+└── package.json
